@@ -1,0 +1,89 @@
+{
+    "experience": [
+        {
+            "id": "1",
+            "src": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
+            "title": "ReactJs training course",
+            "description": "Completed a Reactjs training course "
+        },
+        {
+            "id": "2",
+            "src": "https://www.applify.com.sg/blog/wp-content/uploads/2022/03/A-pathway-that-UIUX-team-follows-before-designing-your-app.png",
+            "title": "UI/UX Designer intern",
+            "description": "Completed a  UI/UX Designer internship"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "src": "../assets/project1-1.PNG",
+            "title": "Student enroll chatbot",
+            "skills": "Reactjs, Redux toolkit, Bootstrap5, Html, Css, Javascript",
+            "description": "Students can use the chatbot for student enrollment",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "../assets/project2-1.PNG",
+            "title": "Student enroll chatbot",
+            "skills": "Reactjs, Redux toolkit, Bootstrap5, Html, Css, Javascript",
+            "description": "Students can use the chatbot for student enrollment",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "../assets/project3.PNG",
+            "title": "My portfolio UI/UX design",
+            "description": "My portfolio",
+            "link": "View In Github"
+        }
+    ],
+    "skills": [
+        
+        {
+            "id": "1",
+            "src": "https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png",
+            "title": "Reactjs"
+            
+        },
+        {
+            "id": "2",
+            "src": "https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png",
+            "title": "Redux"
+            
+        },
+        {
+            "id": "3",
+            "src": "https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-thumbnail.png",
+            "title": "Javascript"
+            
+        },
+        {
+            "id": "4",
+            "src": "https://t3.ftcdn.net/jpg/05/78/11/34/360_F_578113446_j72wZX7u698eoV50XXmkLMH7gGuNhpVB.jpg",
+            "title": "HTML"
+            
+        },
+        {
+            "id": "5",
+            "src": "https://cdn.iconscout.com/icon/free/png-256/free-css3-8-1175200.png?f=webp",
+            "title": "Css"
+            
+        },
+        {
+            "id": "6",
+            "src": "https://cdn-icons-png.flaticon.com/512/5968/5968672.png",
+            "title": "Bootstrap"
+            
+        },
+        {
+            "id": "7",
+            "src": "https://yt3.googleusercontent.com/ytc/AIdro_ml2kXh4Z1pAI84-ZP38cQkVDPPQxGTMsl61oq9n7-iLkI=s900-c-k-c0x00ffffff-no-rj",
+            "title": "Figma"
+            
+        }
+        
+        
+
+    ]
+}
